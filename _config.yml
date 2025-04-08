@@ -22,11 +22,11 @@ repository               : "mksung89/mksung89.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "1.jpg"
   name             : "Mankyu Sung"
   pronouns         : # example: "she/her"  
   bio              : "Professor"
-  location         : "Daegu"
+  location         : "daegu"
   employer         : "Keimyung University"
   uri              : # URL
   email            : "mksung@kmu.ac.kr" 
