@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Mankyu Sung/ Mankyu Sung"
+title                    : "Mankyu Sung"
 title_separator          : "-"
 name                     : &name "Mankyu Sung"
 description              : &description "personal description"
@@ -26,7 +26,7 @@ author:
   name             : "Mankyu Sung"
   pronouns         : # example: "she/her"  
   bio              : "Professor"
-  location         : "Earth"
+  location         : "Daegu"
   employer         : "Keimyung University"
   uri              : # URL
   email            : "mksung@kmu.ac.kr" 
