@@ -11,24 +11,24 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Sciences, Univ. of Wisconsin-Madison, 2005
-* M.S. in Computer Sciences, Univ. of Wisconsin-Madison, 2005
-* M.S. in Computer Sciences, ChungNam National University , 1995
-* B.S. in Computer Sciences, ChungNam National University , 1993
+* Ph.D in [Computer Sciences](https://cs.wisc.edu], [Univ. of Wisconsin-Madison](https://www.wisc.edu), 2005
+* M.S. in [Computer Sciences](https://cs.wisc.edu], [Univ. of Wisconsin-Madison](https://www.wisc.edu), 2005
+* M.S. in [Computer Sciences](https://eng.cnu.ac.kr/computer/index.do), [ChungNam National University](https://www.cnu.ac.kr) , 1995
+* B.S. in [Computer Sciences](https://eng.cnu.ac.kr/computer/index.do), [ChungNam National University](https://www.cnu.ac.kr) , 1993
 
 
 
 Work experience
 ======
 * Mar. 2012 - Present: Professor
-  * Dept of Game Software, Keimyung University
+  * [Dept of Game Software](https://gmeng.kmu.ac.kr/sites/gmeng/index.do), [Keimyung University](https://kmu.ac.kr)
 
 * Feb. 2006 - Feb. 2012 :Senior Technical Member
-  * ETRI
+  * [ETRI](https://www.etri.re.kr)
   * Digital Contents Division
 
 * Sep. 2000 - Dec. 2005 : Research Assistant
-  * Dept of Computer Sciences,  Univ. of Wisconsin-Madison
+  * [Dept of Computer Sciences](https://cs.wisc.edu),  [Univ. of Wisconsin-Madison](https://www.wisc.edu)
   * Advisor: Professor Michael Gleicher
   
 Skills
