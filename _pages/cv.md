@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in [Computer Sciences](https://cs.wisc.edu], [Univ. of Wisconsin-Madison](https://www.wisc.edu), 2005
-* M.S. in [Computer Sciences](https://cs.wisc.edu], [Univ. of Wisconsin-Madison](https://www.wisc.edu), 2005
+* Ph.D in [Computer Sciences](https://cs.wisc.edu), [Univ. of Wisconsin-Madison](https://www.wisc.edu), 2005
+* M.S. in [Computer Sciences](https://cs.wisc.edu), [Univ. of Wisconsin-Madison](https://www.wisc.edu), 2005
 * M.S. in [Computer Sciences](https://eng.cnu.ac.kr/computer/index.do), [ChungNam National University](https://www.cnu.ac.kr) , 1995
 * B.S. in [Computer Sciences](https://eng.cnu.ac.kr/computer/index.do), [ChungNam National University](https://www.cnu.ac.kr) , 1993
 
@@ -20,10 +20,10 @@ Education
 
 Work experience
 ======
-* Mar. 2012 - Present: Professor
-  * [Dept of Game Software](https://gmeng.kmu.ac.kr/sites/gmeng/index.do), [Keimyung University](https://kmu.ac.kr)
+* Mar. 2012 - Present : Professor
+  * [Dept. of Game Software](https://gmeng.kmu.ac.kr/sites/gmeng/index.do), [Keimyung University](https://kmu.ac.kr)
 
-* Feb. 2006 - Feb. 2012 :Senior Technical Member
+* Feb. 2006 - Feb. 2012 : Senior Technical Member
   * [ETRI](https://www.etri.re.kr)
   * Digital Contents Division
 
@@ -31,6 +31,11 @@ Work experience
   * [Dept of Computer Sciences](https://cs.wisc.edu),  [Univ. of Wisconsin-Madison](https://www.wisc.edu)
   * Advisor: Professor Michael Gleicher
   
+* Feb. 1995 - July. 2000 : Technical Member
+  * [ETRI](https://www.etri.re.kr)
+  * Digital Contents Division
+
+
 Skills
 ======
 * Skill 1
