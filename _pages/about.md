@@ -11,7 +11,7 @@ Hello,
 Welcome to my website.
   
 I am a  Professor(Full) of Dept. of Game Software at [Keimyung Unviersity](https://kmu.ac.kr)
-I completed my Ph.D. in [Compuer Sciences](https://cs.wisc.edu) at the [University of Wisconsin-Madison](https://www.wisc.edu) in 2005.  I also earned a Master’s degree in Computer Sciences at University of Wisconsin-Madison  and Bachelor's degree in Computer Sciences at [Chung Nam National Unviersity](https://cnu.ac.kr), Korea 1993
+I completed my Ph.D. in [Compuer Sciences](https://cs.wisc.edu) at the [University of Wisconsin-Madison](https://www.wisc.edu) in 2005.  I also earned a Master’s degree in Computer Sciences at University of Wisconsin-Madison  and Bachelor's degree in Computer Sciences at [ChungNam National Unviersity](https://cnu.ac.kr), Korea 1993
 
 My current research focuses on Computer Graphics, Computer Animation, HCI,  Visualization and  Robotics
 

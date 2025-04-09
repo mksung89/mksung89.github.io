@@ -11,26 +11,25 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Sciences, Univ. of Wisconsin-Madison, 2005
+* M.S. in Computer Sciences, Univ. of Wisconsin-Madison, 2005
+* M.S. in Computer Sciences, ChungNam National University , 1995
+* B.S. in Computer Sciences, ChungNam National University , 1993
+
+
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Mar. 2012 - Present: Professor
+  * Dept of Game Software, Keimyung University
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Feb. 2006 - Feb. 2012 :Senior Technical Member
+  * ETRI
+  * Digital Contents Division
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Sep. 2000 - Dec. 2005 : Research Assistant
+  * Dept of Computer Sciences,  Univ. of Wisconsin-Madison
+  * Advisor: Professor Michael Gleicher
   
 Skills
 ======
