@@ -8,16 +8,17 @@ redirect_from:
 ---
 
 Hello,
-Welcome to my website.  
+Welcome to my website.
+  
 I am a  Professor(Full) of Dept. of Game Software at [Keimyung Unviersity](https://kmu.ac.kr)
 I completed my Ph.D. in [Compuer Sciences](https://cs.wisc.edu) at the [University of Wisconsin-Madison](https://www.wisc.edu) in 2005.  I also earned a Master’s degree in Computer Sciences at University of Wisconsin-Madison  and Bachelor's degree in Computer Sciences at [Chung Nam National Unviersity](https://cnu.ac.kr), Korea 1993
 
 My current research focuses on Computer Graphics, Computer Animation, HCI,  Visualization and  Robotics
 
 If you have any questions or comments, please feel free to contact me at mksung (at)kmu.ac.kr 
-
+<!--
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
-
+-->
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
